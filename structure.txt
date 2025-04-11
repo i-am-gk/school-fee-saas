@@ -1,0 +1,23 @@
+school-fee-saas/
+│
+├── index.php
+├── register.php
+├── login.php
+├── logout.php
+│
+├── /admin/
+│   └── dashboard.php
+│
+├── /parent/
+│   └── dashboard.php
+│
+├── /includes/
+│   ├── db.php
+│   ├── functions.php
+│   ├── session.php
+│
+├── /assets/
+│   ├── css/
+│   └── js/
+│
+└── /receipts/
